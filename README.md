@@ -2,10 +2,10 @@
 
 This cute little program utilizes RAG (Retrieval Augmented Generation) to use a Local LLM (Llama 3.1 - 8b) to pull context from Jerry Thomas's famous book:
 
-> ### How to Mix Drinks,
+> # How to Mix Drinks,
 > **or**
-> ## The Bon-Vivants Companion,
-> ### Containing clear and reliable directions for mixing all the beverages used in the United States, together with the most popular British, French, German, Italian, Russian, and Spanish recipes, embracing Punches, Juleps, Cobblers, Etc., Etc., Etc., in endless variety.
+> ### The Bon-Vivants Companion,
+> #### Containing clear and reliable directions for mixing all the beverages used in the United States, together with the most popular British, French, German, Italian, Russian, and Spanish recipes, embracing Punches, Juleps, Cobblers, Etc., Etc., Etc., in endless variety.
 
 The project was built using `React + Vite` and `Tailwind` for the frontend, and `Python + Flask + Langchain` for the backend.
 
